@@ -1,0 +1,72 @@
+.go{
+    background-color: green;
+    height: 80px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.hi{
+    background-color:black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 10px;
+    text-align: center;
+}
+
+}
+.rps{
+    height: 400px;
+    width: 400px;
+}
+.no{
+    padding-left: 80px;
+}
+.active:hover{
+    background-color: green;
+}
+.god{
+    background-color: pink;
+    float: right;
+    height: 640px;
+    width: 350px;
+    margin-right: 80px;
+    text-align: center;
+}
+.bro{
+    background-color: black;
+    color:white;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+.ro{
+    background-color:black;
+    color: orange;
+    text-align: center;
+}
+.ho{
+    background-color: green;
+}
+.try{
+    float: center;
+}
+.wo{
+    background-color: wheat;
+    border: 2px solid black;
+    height: 660px;
+}
+.bor{
+    text-align: center;
+    border: 2px solid black;
+    width: 700px;
+    height: 810px;
+    margin-left: 300px;
+}
+.active:hover{
+    background-color:white;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
