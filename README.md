@@ -1,0 +1,2 @@
+# Mizo-Uni
+university website
